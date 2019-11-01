@@ -8,4 +8,8 @@
 </ol>
 <h3>solution3.py</h3>
 <h4>numpy practice problem set</h4>
+ 
+ # Includes:
+ ## Presidential election vote that aggregates data based on winning candidates 
+ ## illustraition on how to use pandas and numpy
 
